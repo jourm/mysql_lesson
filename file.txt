@@ -1,0 +1,2 @@
+mysql> source test.sql
+mysql> notee
